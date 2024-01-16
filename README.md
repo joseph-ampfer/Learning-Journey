@@ -13,8 +13,8 @@ My developer learning journey.
   - Design and implement a simple animation, game, or interactive art using Scratch
  
 - **My Games**
-  - github.com/joseph-ampfer/Jumpy-Game
-  - github.com/joseph-ampfer/My-Pong
+  - https://github.com/joseph-ampfer/Jumpy-Game
+  - https://github.com/joseph-ampfer/My-Pong
 
 - **Reflections and Challenges:**
   - I loved working on my games. The thrill of seeing something you imagined and coded actually working was amazing. I knew then that I wanted to dive deeper into software engineering.
@@ -131,4 +131,4 @@ My developer learning journey.
 
 #### Week 10: Final Project
 - Worked on my final project, AMPFER Finance
-- github.com/joseph-ampfer/AmpferFinance
+- https://github.com/joseph-ampfer/AmpferFinance
