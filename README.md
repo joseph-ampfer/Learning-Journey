@@ -1,10 +1,10 @@
 # Learning-Journey
-My developer learning journey.
+See how far I've come, from med student to software engineer.
 
 ## My Journey Through Harvard's CS50
 
 ### Week 0: Scratch
-- **Topics Covered:**
+- **Topics Learned:**
   - Introduction to the basics of computer science
   - Understanding algorithms
   - Creating simple programs using Scratch
@@ -21,7 +21,7 @@ My developer learning journey.
   - I got stuck on how to get the physics right on pong. I was thinking of having the incoming angle of the ball and outgoing angle be correct. After thinking it over, searching formulas, and trying implemenations that did not work, I had an aha moment that I could set the angle to be random within a certain interval, and the game would still be fun. I found the randomness of the angle added to the fun of the game, because it was harder to predict.
 
 ### Week 1: C
-- **Topics Covered:**
+- **Topics Learned:**
   - Introduction to the C programming language
   - Basics of programming concepts like loops, conditions, and variables
 
@@ -35,7 +35,7 @@ My developer learning journey.
   - I learned that breaking a hard problem down to a smaller and easier to understand base can simplify the whole process.
 
 ### Week 2: Arrays
-- **What I learned:**
+- **Topics learned:**
   - Compiling: preprocessing, compiling, assembling, and linking
   - Debugging: Techniques like using `printf`, utilizing debugger tools, and rubber duck debugging
   - Arrays: Introduction to arrays and how they store data in contiguous memory locations
@@ -53,21 +53,29 @@ My developer learning journey.
   - I created a Wordle game that runs in the terminal. It took a lot of effort, and troubleshooting to have it check if the letters were in the word but in the wrong spot, but this was again one of those amazing momoments of coding. I was so excited to show the game to my roommates, have them play it, and have it work flawlessly. It is a great feeling.
 
 ### Week 3: Algorithms
-- **Topics Covered:**
+- **Topics Learned:**
   - Delving deeper into algorithms
-  - Searching and sorting
+  - Binary Search
+  - Running time and algorithm efficiency
+  - Data structures
+  - Sorting Algorithms: Explored selection sort, bubble sort, and merge sort
+  - Recursion understanding and implementation
 
 - **Problem Set:**
-  - Implement programs that execute more complex algorithms, like search algorithms
+  - Implement programs that execute more complex algorithms, like search algorithms and election tally algorithms.
 
 - **Reflections and Challenges:**
   - Understanding efficiency in algorithms
-  - Practical implementation challenges
+  - It was cool to see the efficiencies of the sorting algorithms live with the problem sets. It took theory and showed practical use.
+  - Recursion was tricky, and I spent a lot of time thinking through the logic of how it was working.
+  - I ran into Tideman when working on extra problems. It was really tough, and I didn't realize that if I had the knowledge of pointers from Week 4, it would have been so much simpler.
 
 ### Week 4: Memory
 - **Topics Covered:**
   - Memory management
   - Pointers and file I/O
+  - Valgrind for detecting memory leaks
+  - Overflow errors from the heap or stack
 
 - **Problem Set:**
   - Programs that manipulate memory and use pointers
@@ -75,10 +83,18 @@ My developer learning journey.
 - **Reflections and Challenges:**
   - Understanding pointers and memory allocation
   - Debugging memory-related issues
+  - Pointers were very interesting to learn and use because how powerful they are with memory manipulation. It made me realize what C could do.
+  - I made custom filters in C that would take an image and process each pixel and output an image that is 'filtered'. It was fun to my code work and output different filters that I have seen used on social media!
+  - Learning about memory and garbage values allowed me to create a program than can recover deleted files from a camera, which was very cool. I felt like a detective recovering lost evidence.
 
 ### Week 5: Data Structures
-- **Topics Covered:**
-  - Introduction to data structures like linked lists, trees, and hash tables
+- **Topics Learned:**
+  - Abstract data structures like stacks and queues
+  - Resizing arrays dynamically using 'malloc' and 'realloc'
+  - Linked Lists and how to dynamically grow and shrink them
+  - Trees and Binary Search Trees
+  - Dictionaries and Hashing
+  - Tries
 
 - **Problem Set:**
   - Implementation of data structures in program solutions
@@ -86,11 +102,13 @@ My developer learning journey.
 - **Reflections and Challenges:**
   - Understanding and implementing various data structures
   - Application of data structures to solve complex problems
+  - This week was extra interesting because the problem set not only wanted us to make an accurate spell checker, but also optimize it. I had to make it run as fast as I could, and that got my brain going. It was the speed of the hash function (no outside hash functions allowed) that was the linch-pin for my speed, and it was satisfying to get it to about the same speed as the professor.
 
 ### Week 6: Python
-- **Topics Covered:**
+- **Topics Learned:**
   - Transition from C to Python
   - Python syntax and features
+  - Object-oriented programming
 
 - **Problem Set:**
   - Implement similar programs from earlier weeks in Python
@@ -114,7 +132,7 @@ My developer learning journey.
   - I loved this week. Working with SQL and databases came very natural, and the problems were fun. The Fiftyville problem had me feeling like a real criminal investigator like Penelope Garcia from 'Criminal Minds'. 
 
 ### Week 8: HTML, CSS, JavaScript
-- **Topics Covered:**
+- **Topics Learned:**
   - Introduction to web development
   - Understanding HTML, CSS, and JavaScript
 
@@ -127,7 +145,7 @@ My developer learning journey.
   - This was the hardest week for me. Transitioning from C to Python wasn't bad, but from those to HTML, CSS, and JavaScript shook me up. I thought HTML and CSS looked ugly, did not like how it seemed like memorization, not logic coding, and how arbitrary and deep the look of a page can be. There was a lot I wanted to with my webpage, and felt like there wasn't adequate instruction. Once I got over my self-restriction of not using outside resources, it became more clear how to create what I envisioned.
 
 ### Week 9: Flask
-- **Topics Covered:**
+- **Topics Learned:**
   - Introduction to Flask
   - Building dynamic websites
 
