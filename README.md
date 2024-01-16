@@ -101,4 +101,29 @@ My developer learning journey.
 
 #### Week 8: HTML, CSS, JavaScript
 - **Topics Covered:**
-  - &#8203;``【oaicite:0】``&#8203;
+  - Introduction to web development
+  - Understanding HTML, CSS, and JavaScript
+
+- **Problem Set:**
+  - Develop a simple web page or application using HTML, CSS, and JavaScript
+
+- **Reflections and Challenges:**
+  - Designing and implementing web interfaces
+  - Integrating JavaScript for web functionality
+
+#### Week 9: Flask
+- **Topics Covered:**
+  - Introduction to Flask
+  - Building dynamic websites
+
+- **Problem Set:**
+  - Implement a more complex web application using Flask
+
+- **Reflections and Challenges:**
+  - Understanding web application frameworks
+  - Managing server-side scripting
+
+#### Week 10: Ethics
+- **Topics Covered:**
+  - Ethical considerations in computer science
+  - Impact of technology on society
