@@ -98,6 +98,7 @@ My developer learning journey.
 - **Reflections and Challenges:**
   - Adapting to Python from C
   - Leveraging Python features in problem-solving
+  - This was a big transition, and opposed to many of my classmates, did not like Python at first. I thought it was not as pretty as C, and hated how non-explicit everything was. In C, I had loops down-pat. I wanted to know exactly what was going on under the hood for all these Python functions, like it's 'for'. Instead of taking it at face value, it led me into a deep dive of what these abstractions were doing behind the scenes. I did come to enjoy the relative ease I could do certain things in Python as compared to C.
 
 #### Week 7: SQL
 - **Topics Covered:**
@@ -110,6 +111,7 @@ My developer learning journey.
 - **Reflections and Challenges:**
   - Understanding database concepts
   - SQL syntax and query optimization
+  - I loved this week. Working with SQL and databases came very natural, and the problems were fun. The Fiftyville problem had me feeling like a real criminal investigator like Penelope Garcia from 'Criminal Minds'. 
 
 #### Week 8: HTML, CSS, JavaScript
 - **Topics Covered:**
@@ -122,6 +124,7 @@ My developer learning journey.
 - **Reflections and Challenges:**
   - Designing and implementing web interfaces
   - Integrating JavaScript for web functionality
+  - This was the hardest week for me. Transitioning from C to Python wasn't bad, but from those to HTML, CSS, and JavaScript shook me up. I thought HTML and CSS looked ugly, did not like how it seemed like memorization, not logic coding, and how arbitrary and deep the look of a page can be. There was a lot I wanted to with my webpage, and felt like there wasn't adequate instruction. Once I got over my self-restriction of not using outside resources, it became more clear how to create what I envisioned.
 
 #### Week 9: Flask
 - **Topics Covered:**
@@ -134,6 +137,7 @@ My developer learning journey.
 - **Reflections and Challenges:**
   - Understanding web application frameworks
   - Managing server-side scripting
+  - I made a Flask web application, which was cool because it was my first full-stack experience. I made a database, a Flask application, and the front-end HTML and CSS. I ended up adding a lot of additional functionality that was not necessary for the grade, but I did it because the challenge was fun, rewarding, and it made for a more complete product in my opinion.
 
 #### Week 10: Final Project
 - Worked on my final project, AMPFER Finance
