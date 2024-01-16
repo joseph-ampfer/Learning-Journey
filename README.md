@@ -26,11 +26,13 @@ My developer learning journey.
   - Basics of programming concepts like loops, conditions, and variables
 
 - **Problem Set:**
-  - Implement one or more programs in C, like "Hello, World", a simple Mario pyramid, or a cash change calculator
+  - Implement programs in C, "Hello, World", a simple or complex Mario pyramid, and a cash change calculator
 
 - **Reflections and Challenges:**
   - Transitioning to C from Scratch
   - Understanding new programming concepts in C
+  - I tried to tackle the complex Mario pyramid first and found it a little overwhelming, so I went back to simple pyramid. From there, I found out that I could make the backwards pyramid pretty easily, and from there get the solution. Once I had that solution, the complex Mario pyramid came easily.
+  - I learned that breaking a hard problem down to a smaller and easier to understand base can simplify the whole process.
 
 #### Week 2: Arrays
 - **Topics Covered:**
