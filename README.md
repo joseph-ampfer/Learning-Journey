@@ -1,7 +1,7 @@
 # Learning-Journey
 See how far I've come, from med student to software engineer.
 
-## My Journey Through Harvard's CS50
+## My Journey Through Harvard's CS50 (11/05/2023 - 01/10/2024)
 <details>
   
 ### Week 0: Scratch
