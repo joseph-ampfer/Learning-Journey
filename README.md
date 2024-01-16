@@ -117,6 +117,7 @@ See how far I've come, from med student to software engineer.
   - Adapting to Python from C
   - Leveraging Python features in problem-solving
   - This was a big transition, and opposed to many of my classmates, did not like Python at first. I thought it was not as pretty as C, and hated how non-explicit everything was. In C, I had loops down-pat. I wanted to know exactly what was going on under the hood for all these Python functions, like it's 'for'. Instead of taking it at face value, it led me into a deep dive of what these abstractions were doing behind the scenes. I did come to enjoy the relative ease I could do certain things in Python as compared to C.
+  - I rewrote most of my previous C programs in Python to get more familiar with the language, and I found it helped tremendously. 
 
 ### Week 7: SQL
 - **Topics Learned:**
@@ -132,7 +133,8 @@ See how far I've come, from med student to software engineer.
 - **Reflections and Challenges:**
   - Understanding database concepts
   - SQL syntax and query optimization
-  - I loved this week. Working with SQL and databases came very natural, and the problems were fun. The Fiftyville problem had me feeling like a real criminal investigator like Penelope Garcia from 'Criminal Minds'. 
+  - I loved this week. Working with SQL and databases came very natural, and the problems were fun. The Fiftyville problem had me feeling like a real criminal investigator like Penelope Garcia from 'Criminal Minds'.
+  - The movies problems had me working with many relational tables. I used string operations, aggregation, join operations, subqueries and nested queries, and unique conditions like for "movies in which both Bradley Cooper and Jennifer Lawrence starred".
 
 ### Week 8: HTML, CSS, JavaScript
 - **Topics Learned:**
