@@ -129,7 +129,6 @@ My developer learning journey.
   - Understanding web application frameworks
   - Managing server-side scripting
 
-#### Week 10: Ethics
-- **Topics Covered:**
-  - Ethical considerations in computer science
-  - Impact of technology on society
+#### Week 10: Final Project
+- Worked on my final project, AMPFER Finance
+- github.com/joseph-ampfer/AmpferFinance
