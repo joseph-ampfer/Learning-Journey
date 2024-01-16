@@ -35,16 +35,22 @@ My developer learning journey.
   - I learned that breaking a hard problem down to a smaller and easier to understand base can simplify the whole process.
 
 #### Week 2: Arrays
-- **Topics Covered:**
-  - Understanding arrays and complex data structures
-  - More advanced algorithms
+- **What I learned:**
+  - Compiling: preprocessing, compiling, assembling, and linking
+  - Debugging: Techniques like using `printf`, utilizing debugger tools, and rubber duck debugging
+  - Arrays: Introduction to arrays and how they store data in contiguous memory locations
+  - Strings as Arrays: Understanding that strings are arrays of characters
+  - Command-Line Arguments: How to handle arguents passed to programs via the command line.
+  - Basics of cryptography
 
 - **Problem Set:**
-  - Implement programs that manipulate arrays of data, such as a sorting algorithm
+  - Implement programs that manipulate arrays of data
 
 - **Reflections and Challenges:**
   - Grasping array manipulation
-  - Implementation of sorting algorithms
+  - I got to see the value of different debugging techniques and their practical applications
+  - Worked on a Ceasar cipher and substitution cipher in C, which was fun to play with
+  - I created a Wordle game that runs in the terminal. It took a lot of effort, and troubleshooting to have it check if the letters were in the word but in the wrong spot, but this was again one of those amazing momoments of coding. I was so excited to show the game to my roommates, have them play it, and have it work flawlessly. It is a great feeling.
 
 #### Week 3: Algorithms
 - **Topics Covered:**
