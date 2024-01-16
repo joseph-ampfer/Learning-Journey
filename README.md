@@ -2,7 +2,8 @@
 See how far I've come, from med student to software engineer.
 
 ## My Journey Through Harvard's CS50
-
+<details>
+  
 ### Week 0: Scratch
 - **Topics Learned:**
   - Introduction to the basics of computer science
@@ -165,3 +166,4 @@ See how far I've come, from med student to software engineer.
 ### Week 10: Final Project
 - Worked on my final project, AMPFER Finance
 - https://github.com/joseph-ampfer/AmpferFinance
+</details>
