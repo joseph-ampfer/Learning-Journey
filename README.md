@@ -11,10 +11,14 @@ My developer learning journey.
 
 - **Problem Set:**
   - Design and implement a simple animation, game, or interactive art using Scratch
+ 
+- **My Games**
+  - github.com/joseph-ampfer/Jumpy-Game
+  - github.com/joseph-ampfer/My-Pong
 
 - **Reflections and Challenges:**
-  - Personal insights gained
-  - Specific challenges faced and how they were overcome
+  - I loved working on my games. The thrill of seeing something you imagined and coded actually working was amazing. I knew then that I wanted to dive deeper into software engineering.
+  - I got stuck on how to get the physics right on pong. I was thinking of having the incoming angle of the ball and outgoing angle be correct. After thinking it over, searching formulas, and trying implemenations that did not work, I had an aha moment that I could set the angle to be random within a certain interval, and the game would still be fun. I found the randomness of the angle added to the fun of the game, because it was harder to predict.
 
 #### Week 1: C
 - **Topics Covered:**
