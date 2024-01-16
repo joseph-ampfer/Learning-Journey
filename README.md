@@ -119,9 +119,12 @@ See how far I've come, from med student to software engineer.
   - This was a big transition, and opposed to many of my classmates, did not like Python at first. I thought it was not as pretty as C, and hated how non-explicit everything was. In C, I had loops down-pat. I wanted to know exactly what was going on under the hood for all these Python functions, like it's 'for'. Instead of taking it at face value, it led me into a deep dive of what these abstractions were doing behind the scenes. I did come to enjoy the relative ease I could do certain things in Python as compared to C.
 
 ### Week 7: SQL
-- **Topics Covered:**
-  - Basics of database management using SQL
+- **Topics Learned:**
+  - Database management using SQL
   - Querying and updating databases
+  - Using SQL in Python
+  - Race Conditions
+  - SQL Injection Attacks
 
 - **Problem Set:**
   - Implement programs that interact with databases using SQL
